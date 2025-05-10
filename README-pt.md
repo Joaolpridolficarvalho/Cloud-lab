@@ -1,0 +1,10 @@
+# Cloud-lab
+Na primeira seção do curso, aprendemos sobre a nuvem e seus serviços. Também aprendemos sobre os diferentes tipos de computação em nuvem, incluindo nuvens públicas, privadas e híbridas. Além disso, aprendemos sobre as diferenças entre Capex e Opex.
+
+## Conceitos
+1. **Computação em Nuvem**: A entrega de serviços de computação pela internet, incluindo armazenamento, poder de processamento e aplicativos de software. Permite que os usuários acessem e utilizem recursos sob demanda, sem a necessidade de infraestrutura física, possibilitando escalabilidade, flexibilidade e custo-benefício.
+2. **Nuvem Pública**: Um modelo de computação em nuvem onde os serviços são fornecidos pela internet e compartilhados entre vários usuários. As nuvens públicas são de propriedade e operadas por provedores terceirizados, oferecendo recursos com base no modelo de pagamento conforme o uso.
+3. **Nuvem Privada**: Um modelo de computação em nuvem onde os serviços são dedicados a uma única organização. As nuvens privadas podem ser hospedadas localmente ou por um provedor terceirizado, oferecendo maior controle, segurança e personalização em comparação com as nuvens públicas.
+4. **Nuvem Híbrida**: Um modelo de computação em nuvem que combina nuvens públicas e privadas, permitindo que as organizações aproveitem os benefícios de ambas. As nuvens híbridas permitem que dados e aplicativos sejam compartilhados entre os ambientes, proporcionando flexibilidade e escalabilidade.
+5. **Capex (Despesas de Capital)**: Os custos iniciais associados à compra e manutenção de infraestrutura física, como servidores, armazenamento e equipamentos de rede. O Capex é tipicamente uma despesa única e é registrado como um ativo no balanço patrimonial. Exemplo: comprar um servidor.
+6. **Opex (Despesas Operacionais)**: Os custos contínuos associados à execução e manutenção de serviços de TI, como assinaturas de nuvem, licenças de software e serviços de suporte. O Opex é tipicamente uma despesa recorrente e é registrado como uma despesa na demonstração de resultados. Exemplo: pagar por uma assinatura de serviço de nuvem.
